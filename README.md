@@ -1,6 +1,6 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BigCubeCat&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BigCubeCat&layout=compact&show_icons=true&theme=midnight-purpl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaghZen&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaghZen&layout=compact&show_icons=true&theme=midnight-purpl)
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
